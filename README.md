@@ -15,7 +15,7 @@ CSS – Styling and layout.
 JavaScript – Quiz logic, timer, and interactivity.
 How to Use
 Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/ShivaniRadha
 Open index.html in your browser.
 Click Start Quiz to begin.
 Select an answer and click Next.
