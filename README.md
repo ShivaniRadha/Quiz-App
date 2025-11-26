@@ -1,7 +1,7 @@
 Python Quiz App 📝
 A simple and interactive Python Quiz App built using HTML, CSS, and JavaScript. Test your Python knowledge with multiple-choice questions and a countdown timer!
 Demo
-Live demo: GitHub Pages Link
+Live demo: https://shivaniradha.github.io/Quiz-App/
 Features
 Multiple-choice quiz questions.
 Countdown timer for each question.
