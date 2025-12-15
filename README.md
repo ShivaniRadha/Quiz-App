@@ -1,4 +1,4 @@
-                                                                       📝 Python Quiz App
+                                                     📝 Python Quiz App
 ## 📌 Description
 - Interactive Python quiz web application  
 - Built using HTML, CSS, and JavaScript  
